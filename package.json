@@ -1,0 +1,14 @@
+{
+  "name": "pratica-de-javascript",
+  "version": "1.0.0",
+  "description": "\"Pratica para cadastrar, atualizar, pesquisar e remover usuario\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Thais Ribeiro Frisselli\"",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
+}
